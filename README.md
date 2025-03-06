@@ -1,5 +1,9 @@
 # Simple Unit Testing Example
 
+https://github.com/gtechsltn/game-character-api
+
+https://github.com/gtechsltn/SimpleUnitTestingExample
+
 How to add source code to GitHub
 
 https://docs.google.com/document/d/1IK3qYmw-mcx6CXCG_RZIOlpAGKUclB1pqKgKD0ncgWY
