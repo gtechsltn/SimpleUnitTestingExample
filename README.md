@@ -1,5 +1,24 @@
 # Simple Unit Testing Example
 
+How to add source code to GitHub
+
+https://docs.google.com/document/d/1IK3qYmw-mcx6CXCG_RZIOlpAGKUclB1pqKgKD0ncgWY
+
+```
+git init
+git remote add origin https://github.com/gtechsltn/SimpleUnitTestingExample.git
+git remote set-url origin https://github.com/gtechsltn/SimpleUnitTestingExample.git
+git status
+git branch
+git add .
+git commit -m "Init source"
+git push --set-upstream origin master
+git branch --set-upstream-to=origin/master
+git pull --allow-unrelated-histories
+git pull origin master
+git push
+```
+
 Unit Testing using xUnit
 
 https://www.nikolatech.net/blogs/unit-testing-using-xunit-dotnet
