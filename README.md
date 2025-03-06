@@ -8,6 +8,10 @@ Bogus - Generate Realistic Fake Data in C#
 
 https://www.nikolatech.net/blogs/bogus-ganerate-fake-data
 
+Fluent Assertions in Unit Testing in C#
+
+https://www.youtube.com/watch?v=TytferBCLOo
+
 # .NET provides several robust frameworks for unit testing:
 
 * xUnit
